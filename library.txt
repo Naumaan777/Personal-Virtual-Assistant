@@ -1,0 +1,33 @@
+import warnings
+import pyttsx3
+import speech_recognition as sr
+from __future__ import print_function
+import warnings
+import pyttsx3
+import speech_recognition as sr
+import pyaudio
+from gtts import gTTS
+import playsound
+import os
+import datetime
+import calendar
+import random
+import wikipedia
+import webbrowser
+import ctypes
+import winshell
+import subprocess
+import pyjokes
+import smtplib
+import requests
+import json
+import datetime
+import os.path
+from google.auth.transport.requests import Request
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
+from twilio.rest import_Client
+import wolframalpha
+import time
